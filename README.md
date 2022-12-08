@@ -4,7 +4,7 @@ HELLO WORLD
 - 👀 I’m interested in Unity Development | Games Development
 - 🌱 I’m currently learning Unity Engine and C#
 - 💞️ I’m looking to collaborate on Games Development
-- 📫 You can reach me at LinkedIn : https://www.linkedin.com/in/salih-ismail-al-zabih-1a8499170/
+- 📫 You can reach me at LinkedIn : https://www.linkedin.com/in/salih-ismail-1a8499170/
 - 📫 You can reach me at Facebook : https://www.facebook.com/salih.ismail.792
 - 📫 You can reach me at Twitter  : https://twitter.com/Salih_Bhatti
 - 📫 You can reach me at Gmail    : salihbhatti1994@gmail.com
